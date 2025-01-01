@@ -6,3 +6,4 @@ h3: 1
 
 
 h2: init login file
+h3: init func file
